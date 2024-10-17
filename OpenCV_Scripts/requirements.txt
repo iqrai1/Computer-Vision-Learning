@@ -1,0 +1,3 @@
+opencv-python
+numpy
+python==3.11.*
